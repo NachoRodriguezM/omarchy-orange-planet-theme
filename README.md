@@ -6,9 +6,10 @@ Created with [Aether](https://github.com/omacom/aether).
 
 ## Preview
 
-| Desktop | Workspace |
-| :---: | :---: |
-| ![Orange Planet desktop preview](previews/orange-planet-preview-1.png) | ![Orange Planet workspace preview](previews/orange-planet-preview-2.png) |
+
+![Orange Planet desktop preview](previews/orange-planet-preview-1.png)
+
+![Orange Planet workspace preview](previews/orange-planet-preview-2.png)
 
 ## Install
 
