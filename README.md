@@ -1,6 +1,6 @@
 # Orange Planet
 
-An amber-lit dark theme for [Omarchy](https://omarchy.org). Orange Planet pairs near-black red surfaces with glowing gold text and warm, high-contrast accents.
+An amber-lit dark theme for [Omarchy](https://omarchy.org). Orange Planet pairs near-black red surfaces with glowing orange borders and elements, gold text and warm, high-contrast accents.
 
 Created with [Aether](https://github.com/omacom/aether).
 
