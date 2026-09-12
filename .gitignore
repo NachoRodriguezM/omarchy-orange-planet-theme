@@ -1,0 +1,12 @@
+# Aether working files and dynamically generated wallpaper variants stay local.
+.aether/
+aether/
+aether-*/
+backgrounds/aether-*
+backgrounds/generated-*/
+backgrounds/dynamic-*/
+generated-wallpapers/
+wallpaper-generation/
+wp-generation/
+*.aether
+*.xmp

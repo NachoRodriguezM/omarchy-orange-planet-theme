@@ -1,0 +1,26 @@
+MIT License
+
+Copyright (c) 2026 Ignacio Rodriguez
+
+This license applies to the Orange Planet theme configuration and documentation
+in this repository, including `colors.toml`, `icons.theme`, `README.md`, and
+the supplied preview images. The background images in `backgrounds/` are
+excluded from this license and remain subject to the rights and licenses of
+their respective creators.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the covered files to deal in the covered files without restriction,
+including without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the covered files, and to permit
+persons to whom the covered files are furnished to do so, subject to the
+following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the covered files.
+
+THE COVERED FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE COVERED FILES OR THE USE OR OTHER DEALINGS IN
