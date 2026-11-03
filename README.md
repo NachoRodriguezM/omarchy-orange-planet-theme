@@ -43,7 +43,7 @@ Omarchy generates matching application colors from `colors.toml`.
 
 ## Backgrounds
 
-A curated selection of five backgrounds is included in [`backgrounds`](backgrounds).
+A curated selection of five backgrounds is included in [`backgrounds`](backgrounds). The Blade Runner 2049 desert background includes a matching silent startup intro at `backgrounds/intros/br2049-wallpaper-desert.mp4`; Omarchy pairs it automatically by filename.
 
 ## License
 
